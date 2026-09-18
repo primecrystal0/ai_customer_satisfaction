@@ -1,0 +1,5 @@
+category,count,percentage,avg_confidence
+Excellent,9,45.0,0.95
+Poor,5,25.0,0.97
+Need Improvements,4,20.0,0.9
+Good,2,10.0,0.95

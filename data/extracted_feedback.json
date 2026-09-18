@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "feedback_0_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Ryan Cummings\nDate: 2026-04-30\nEmail: alexa47@example.org\nFeedback:\nAbsolutely loved the service, the staff went above and beyond!",
+    "name": "Ryan Cummings",
+    "date": "2026-04-30",
+    "email": "alexa47@example.org",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!"
+  },
+  {
+    "filename": "feedback_10_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Christopher Hernandez\nDate: 2026-01-10\nEmail: christopher48@example.net\nFeedback:\nThis exceeded my expectations, I will definitely recommend it to friends.",
+    "name": "Christopher Hernandez",
+    "date": "2026-01-10",
+    "email": "christopher48@example.net",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends."
+  },
+  {
+    "filename": "feedback_11_Poor.pdf",
+    "raw_text": "Customer Feedback Form\nName: Matthew Bender\nDate: 2026-03-07\nEmail: phernandez@example.com\nFeedback:\nTerrible experience, I want a refund immediately.",
+    "name": "Matthew Bender",
+    "date": "2026-03-07",
+    "email": "phernandez@example.com",
+    "feedback_text": "Terrible experience, I want a refund immediately."
+  },
+  {
+    "filename": "feedback_12_Need_Improvements.pdf",
+    "raw_text": "Customer Feedback Form\nName: Elizabeth Moran\nDate: 2026-03-12\nEmail: curtisking@example.org\nFeedback:\nProduct is okay but the instructions could be clearer.",
+    "name": "Elizabeth Moran",
+    "date": "2026-03-12",
+    "email": "curtisking@example.org",
+    "feedback_text": "Product is okay but the instructions could be clearer."
+  },
+  {
+    "filename": "feedback_13_Need_Improvements.pdf",
+    "raw_text": "Customer Feedback Form\nName: Kathryn Cameron\nDate: 2026-09-10\nEmail: davisvicki@example.com\nFeedback:\nProduct is okay but the instructions could be clearer.",
+    "name": "Kathryn Cameron",
+    "date": "2026-09-10",
+    "email": "davisvicki@example.com",
+    "feedback_text": "Product is okay but the instructions could be clearer."
+  },
+  {
+    "filename": "feedback_14_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Travis Reyes\nDate: 2026-01-14\nEmail: gregory19@example.net\nFeedback:\nAbsolutely loved the service, the staff went above and beyond!",
+    "name": "Travis Reyes",
+    "date": "2026-01-14",
+    "email": "gregory19@example.net",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!"
+  },
+  {
+    "filename": "feedback_15_Need_Improvements.pdf",
+    "raw_text": "Customer Feedback Form\nName: Daryl Stanley\nDate: 2026-04-24\nEmail: jensenerica@example.org\nFeedback:\nProduct is okay but the instructions could be clearer.",
+    "name": "Daryl Stanley",
+    "date": "2026-04-24",
+    "email": "jensenerica@example.org",
+    "feedback_text": "Product is okay but the instructions could be clearer."
+  },
+  {
+    "filename": "feedback_16_Good.pdf",
+    "raw_text": "Customer Feedback Form\nName: Jordan Baker\nDate: 2026-08-24\nEmail: karaelliott@example.net\nFeedback:\nPretty good service, minor issue with packaging but nothing major.",
+    "name": "Jordan Baker",
+    "date": "2026-08-24",
+    "email": "karaelliott@example.net",
+    "feedback_text": "Pretty good service, minor issue with packaging but nothing major."
+  },
+  {
+    "filename": "feedback_17_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Brenda Mcgrath\nDate: 2026-05-14\nEmail: michael12@example.org\nFeedback:\nAbsolutely loved the service, the staff went above and beyond!",
+    "name": "Brenda Mcgrath",
+    "date": "2026-05-14",
+    "email": "michael12@example.org",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!"
+  },
+  {
+    "filename": "feedback_18_Poor.pdf",
+    "raw_text": "Customer Feedback Form\nName: Natasha Perez\nDate: 2026-07-20\nEmail: seanfowler@example.com\nFeedback:\nThis was a waste of money, I will never use this again.",
+    "name": "Natasha Perez",
+    "date": "2026-07-20",
+    "email": "seanfowler@example.com",
+    "feedback_text": "This was a waste of money, I will never use this again."
+  },
+  {
+    "filename": "feedback_19_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Angela Khan\nDate: 2026-01-11\nEmail: thomasbailey@example.com\nFeedback:\nThis exceeded my expectations, I will definitely recommend it to friends.",
+    "name": "Angela Khan",
+    "date": "2026-01-11",
+    "email": "thomasbailey@example.com",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends."
+  },
+  {
+    "filename": "feedback_1_Good.pdf",
+    "raw_text": "Customer Feedback Form\nName: Samantha Larson\nDate: 2026-08-13\nEmail: robertsronald@example.com\nFeedback:\nPretty good service, minor issue with packaging but nothing major.",
+    "name": "Samantha Larson",
+    "date": "2026-08-13",
+    "email": "robertsronald@example.com",
+    "feedback_text": "Pretty good service, minor issue with packaging but nothing major."
+  },
+  {
+    "filename": "feedback_2_Poor.pdf",
+    "raw_text": "Customer Feedback Form\nName: Jamie Zuniga\nDate: 2026-07-28\nEmail: angelathompson@example.org\nFeedback:\nThis was a waste of money, I will never use this again.",
+    "name": "Jamie Zuniga",
+    "date": "2026-07-28",
+    "email": "angelathompson@example.org",
+    "feedback_text": "This was a waste of money, I will never use this again."
+  },
+  {
+    "filename": "feedback_3_Poor.pdf",
+    "raw_text": "Customer Feedback Form\nName: Shaun Smith\nDate: 2026-08-14\nEmail: andersonalex@example.com\nFeedback:\nExtremely disappointed, the staff was rude and unhelpful.",
+    "name": "Shaun Smith",
+    "date": "2026-08-14",
+    "email": "andersonalex@example.com",
+    "feedback_text": "Extremely disappointed, the staff was rude and unhelpful."
+  },
+  {
+    "filename": "feedback_4_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Jeffrey Hernandez\nDate: 2026-02-21\nEmail: melissamurphy@example.com\nFeedback:\nAbsolutely loved the service, the staff went above and beyond!",
+    "name": "Jeffrey Hernandez",
+    "date": "2026-02-21",
+    "email": "melissamurphy@example.com",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!"
+  },
+  {
+    "filename": "feedback_5_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Paula Hutchinson\nDate: 2026-05-23\nEmail: meghan04@example.net\nFeedback:\nAbsolutely loved the service, the staff went above and beyond!",
+    "name": "Paula Hutchinson",
+    "date": "2026-05-23",
+    "email": "meghan04@example.net",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!"
+  },
+  {
+    "filename": "feedback_6_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Jonathan Scott\nDate: 2026-08-09\nEmail: zstark@example.net\nFeedback:\nFantastic experience from start to finish, truly outstanding support.",
+    "name": "Jonathan Scott",
+    "date": "2026-08-09",
+    "email": "zstark@example.net",
+    "feedback_text": "Fantastic experience from start to finish, truly outstanding support."
+  },
+  {
+    "filename": "feedback_7_Excellent.pdf",
+    "raw_text": "Customer Feedback Form\nName: Denise Torres\nDate: 2026-05-27\nEmail: ugallegos@example.com\nFeedback:\nThis exceeded my expectations, I will definitely recommend it to friends.",
+    "name": "Denise Torres",
+    "date": "2026-05-27",
+    "email": "ugallegos@example.com",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends."
+  },
+  {
+    "filename": "feedback_8_Need_Improvements.pdf",
+    "raw_text": "Customer Feedback Form\nName: David Wang\nDate: 2026-04-04\nEmail: michael15@example.com\nFeedback:\nProduct is okay but the instructions could be clearer.",
+    "name": "David Wang",
+    "date": "2026-04-04",
+    "email": "michael15@example.com",
+    "feedback_text": "Product is okay but the instructions could be clearer."
+  },
+  {
+    "filename": "feedback_9_Poor.pdf",
+    "raw_text": "Customer Feedback Form\nName: Jason Rodriguez\nDate: 2026-03-10\nEmail: joselyons@example.org\nFeedback:\nTerrible experience, I want a refund immediately.",
+    "name": "Jason Rodriguez",
+    "date": "2026-03-10",
+    "email": "joselyons@example.org",
+    "feedback_text": "Terrible experience, I want a refund immediately."
+  }
+]

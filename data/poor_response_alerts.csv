@@ -1,0 +1,6 @@
+filename,name,feedback_text,category,confidence,rationale
+feedback_11_Poor.pdf,Matthew Bender,"Terrible experience, I want a refund immediately.",Poor,0.99,"The feedback expresses strong frustration and an urgent request for a refund, indicating a very negative experience."
+feedback_18_Poor.pdf,Natasha Perez,"This was a waste of money, I will never use this again.",Poor,0.95,"The feedback expresses strong dissatisfaction, frustration, and a clear intent to stop using the service, indicating a poor experience."
+feedback_2_Poor.pdf,Jamie Zuniga,"This was a waste of money, I will never use this again.",Poor,0.95,"The feedback expresses strong dissatisfaction, frustration, and a clear intent to stop using the service, indicating a poor experience."
+feedback_3_Poor.pdf,Shaun Smith,"Extremely disappointed, the staff was rude and unhelpful.",Poor,0.95,"The feedback expresses strong disappointment and frustration with rude, unhelpful staff, indicating a clear intent to avoid the service again."
+feedback_9_Poor.pdf,Jason Rodriguez,"Terrible experience, I want a refund immediately.",Poor,0.99,"The feedback expresses strong frustration and an urgent request for a refund, indicating a very negative experience."

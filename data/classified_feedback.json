@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "feedback_0_Excellent.pdf",
+    "name": "Ryan Cummings",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback uses enthusiastic language and expresses strong satisfaction, indicating a highly positive experience."
+  },
+  {
+    "filename": "feedback_10_Excellent.pdf",
+    "name": "Christopher Hernandez",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends.",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong satisfaction, delight, and a clear intent to recommend, indicating enthusiastic advocacy."
+  },
+  {
+    "filename": "feedback_11_Poor.pdf",
+    "name": "Matthew Bender",
+    "feedback_text": "Terrible experience, I want a refund immediately.",
+    "category": "Poor",
+    "confidence": 0.99,
+    "rationale": "The feedback expresses strong frustration and an urgent request for a refund, indicating a very negative experience."
+  },
+  {
+    "filename": "feedback_12_Need_Improvements.pdf",
+    "name": "Elizabeth Moran",
+    "feedback_text": "Product is okay but the instructions could be clearer.",
+    "category": "Need Improvements",
+    "confidence": 0.9,
+    "rationale": "The feedback acknowledges the product is acceptable but points out that the instructions lack clarity, indicating a constructive area for improvement rather than strong dissatisfaction."
+  },
+  {
+    "filename": "feedback_13_Need_Improvements.pdf",
+    "name": "Kathryn Cameron",
+    "feedback_text": "Product is okay but the instructions could be clearer.",
+    "category": "Need Improvements",
+    "confidence": 0.9,
+    "rationale": "The feedback acknowledges the product is acceptable but points out that the instructions lack clarity, indicating a constructive area for improvement rather than strong dissatisfaction."
+  },
+  {
+    "filename": "feedback_14_Excellent.pdf",
+    "name": "Travis Reyes",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong enthusiasm and satisfaction, praising the staff for exceeding expectations, which aligns with the definition of Excellent."
+  },
+  {
+    "filename": "feedback_15_Need_Improvements.pdf",
+    "name": "Daryl Stanley",
+    "feedback_text": "Product is okay but the instructions could be clearer.",
+    "category": "Need Improvements",
+    "confidence": 0.9,
+    "rationale": "The feedback acknowledges the product is acceptable but points out that the instructions lack clarity, indicating a constructive area for improvement rather than strong dissatisfaction."
+  },
+  {
+    "filename": "feedback_16_Good.pdf",
+    "name": "Jordan Baker",
+    "feedback_text": "Pretty good service, minor issue with packaging but nothing major.",
+    "category": "Good",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses overall satisfaction with the service and only mentions a minor packaging issue, indicating a generally positive experience with a small reservation."
+  },
+  {
+    "filename": "feedback_17_Excellent.pdf",
+    "name": "Brenda Mcgrath",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback uses enthusiastic language (\u201cAbsolutely loved\u201d) and praises staff effort, indicating strong satisfaction and advocacy."
+  },
+  {
+    "filename": "feedback_18_Poor.pdf",
+    "name": "Natasha Perez",
+    "feedback_text": "This was a waste of money, I will never use this again.",
+    "category": "Poor",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong dissatisfaction, frustration, and a clear intent to stop using the service, indicating a poor experience."
+  },
+  {
+    "filename": "feedback_19_Excellent.pdf",
+    "name": "Angela Khan",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends.",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong satisfaction, delight, and a clear intent to recommend, indicating enthusiastic advocacy."
+  },
+  {
+    "filename": "feedback_1_Good.pdf",
+    "name": "Samantha Larson",
+    "feedback_text": "Pretty good service, minor issue with packaging but nothing major.",
+    "category": "Good",
+    "confidence": 0.95,
+    "rationale": "The feedback is overall positive with a minor packaging issue, matching the Good category."
+  },
+  {
+    "filename": "feedback_2_Poor.pdf",
+    "name": "Jamie Zuniga",
+    "feedback_text": "This was a waste of money, I will never use this again.",
+    "category": "Poor",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong dissatisfaction, frustration, and a clear intent to stop using the service, indicating a poor experience."
+  },
+  {
+    "filename": "feedback_3_Poor.pdf",
+    "name": "Shaun Smith",
+    "feedback_text": "Extremely disappointed, the staff was rude and unhelpful.",
+    "category": "Poor",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong disappointment and frustration with rude, unhelpful staff, indicating a clear intent to avoid the service again."
+  },
+  {
+    "filename": "feedback_4_Excellent.pdf",
+    "name": "Jeffrey Hernandez",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong enthusiasm and satisfaction, praising the staff for exceeding expectations, which aligns with the definition of Excellent."
+  },
+  {
+    "filename": "feedback_5_Excellent.pdf",
+    "name": "Paula Hutchinson",
+    "feedback_text": "Absolutely loved the service, the staff went above and beyond!",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback uses enthusiastic language (\u201cAbsolutely loved\u201d) and praises staff effort, indicating strong satisfaction and advocacy."
+  },
+  {
+    "filename": "feedback_6_Excellent.pdf",
+    "name": "Jonathan Scott",
+    "feedback_text": "Fantastic experience from start to finish, truly outstanding support.",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback uses enthusiastic, positive language praising the entire experience and support, indicating strong satisfaction and advocacy."
+  },
+  {
+    "filename": "feedback_7_Excellent.pdf",
+    "name": "Denise Torres",
+    "feedback_text": "This exceeded my expectations, I will definitely recommend it to friends.",
+    "category": "Excellent",
+    "confidence": 0.95,
+    "rationale": "The feedback expresses strong satisfaction, delight, and a clear intent to recommend, indicating enthusiastic advocacy."
+  },
+  {
+    "filename": "feedback_8_Need_Improvements.pdf",
+    "name": "David Wang",
+    "feedback_text": "Product is okay but the instructions could be clearer.",
+    "category": "Need Improvements",
+    "confidence": 0.92,
+    "rationale": "The feedback acknowledges the product is acceptable but points out that the instructions lack clarity, indicating a constructive area for improvement rather than strong dissatisfaction."
+  },
+  {
+    "filename": "feedback_9_Poor.pdf",
+    "name": "Jason Rodriguez",
+    "feedback_text": "Terrible experience, I want a refund immediately.",
+    "category": "Poor",
+    "confidence": 0.99,
+    "rationale": "The feedback expresses strong frustration and an urgent request for a refund, indicating a very negative experience."
+  }
+]
