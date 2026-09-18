@@ -3,9 +3,16 @@ faker
 langchain
 langchain-community
 langchain-openai
+langchain-groq
+langchain-huggingface
 langchain-text-splitters
 faiss-cpu
 pypdf
 pandas
 pydantic
 python-dotenv
+sentence-transformers
+groq
+pytesseract
+pdf2image
+streamlit
