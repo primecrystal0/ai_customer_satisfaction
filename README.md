@@ -57,6 +57,14 @@ pip install -r requirements.txt
 
 Add your Groq API key to a `.env` file:
 
+## Run the Web App
+
+```bash
+streamlit run app.py
+```
+
+Upload any feedback PDF (digital or scanned) to see it extracted and classified live. Switch to the **Dashboard** tab in the sidebar to view aggregate statistics across previously classified feedback.
+
 
 ## Run the Pipeline
 
@@ -76,8 +84,8 @@ python src/evaluate.py
 
 ## Future Work
 
-- OCR support (Tesseract/Azure Document Intelligence) for scanned/handwritten forms
-- Live BI dashboard (Power BI/Looker) integration
+- Handwriting-specific OCR fine-tuning (current OCR is tested on printed/scanned text; real handwritten forms are a documented next step)
+- Live BI dashboard (Power BI/Looker) integration for production-scale deployment
 - CRM/ticketing auto-alert integration (ServiceNow/Salesforce)
 
 ## Author
