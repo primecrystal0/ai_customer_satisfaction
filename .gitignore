@@ -3,3 +3,4 @@ venv/
 __pycache__/
 *.pyc
 data/pdfs/*.pdf
+poppler-26.09.0/
